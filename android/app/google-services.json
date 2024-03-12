@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "933986576039",
+    "project_id": "clicknsend",
+    "storage_bucket": "clicknsend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933986576039:android:8d6256726fc76b0bb25d82",
+        "android_client_info": {
+          "package_name": "com.example.click_send"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933986576039-lu5ikj02koll9u3ut13ei6aq70isioa1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.click_send",
+            "certificate_hash": "b12c9b6724f05a57e91981580b1d2a607dfc0e55"
+          }
+        },
+        {
+          "client_id": "933986576039-6pnec96n5at94he8quvm3rem5miud15d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-aW4WD2yXuXAO5a24bGOzNMQFB2YjM6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933986576039-6pnec96n5at94he8quvm3rem5miud15d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
